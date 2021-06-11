@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/undangan/static/css/main.fe4d2e50.chunk.css",
+    "main.js": "/undangan/static/js/main.4a7cfa29.chunk.js",
+    "main.js.map": "/undangan/static/js/main.4a7cfa29.chunk.js.map",
+    "runtime-main.js": "/undangan/static/js/runtime-main.3d17e6db.js",
+    "runtime-main.js.map": "/undangan/static/js/runtime-main.3d17e6db.js.map",
+    "static/css/2.c7c61619.chunk.css": "/undangan/static/css/2.c7c61619.chunk.css",
+    "static/js/2.a8125163.chunk.js": "/undangan/static/js/2.a8125163.chunk.js",
+    "static/js/2.a8125163.chunk.js.map": "/undangan/static/js/2.a8125163.chunk.js.map",
+    "static/js/3.5520b602.chunk.js": "/undangan/static/js/3.5520b602.chunk.js",
+    "static/js/3.5520b602.chunk.js.map": "/undangan/static/js/3.5520b602.chunk.js.map",
+    "index.html": "/undangan/index.html",
+    "static/css/2.c7c61619.chunk.css.map": "/undangan/static/css/2.c7c61619.chunk.css.map",
+    "static/css/main.fe4d2e50.chunk.css.map": "/undangan/static/css/main.fe4d2e50.chunk.css.map",
+    "static/js/2.a8125163.chunk.js.LICENSE.txt": "/undangan/static/js/2.a8125163.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/undangan/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d17e6db.js",
+    "static/css/2.c7c61619.chunk.css",
+    "static/js/2.a8125163.chunk.js",
+    "static/css/main.fe4d2e50.chunk.css",
+    "static/js/main.4a7cfa29.chunk.js"
+  ]
+}
