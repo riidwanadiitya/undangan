@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/undangan/static/css/main.fe4d2e50.chunk.css",
-    "main.js": "/undangan/static/js/main.8da4e4e4.chunk.js",
-    "main.js.map": "/undangan/static/js/main.8da4e4e4.chunk.js.map",
+    "main.js": "/undangan/static/js/main.1cda6236.chunk.js",
+    "main.js.map": "/undangan/static/js/main.1cda6236.chunk.js.map",
     "runtime-main.js": "/undangan/static/js/runtime-main.3d17e6db.js",
     "runtime-main.js.map": "/undangan/static/js/runtime-main.3d17e6db.js.map",
     "static/css/2.c7c61619.chunk.css": "/undangan/static/css/2.c7c61619.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.c7c61619.chunk.css",
     "static/js/2.a8125163.chunk.js",
     "static/css/main.fe4d2e50.chunk.css",
-    "static/js/main.8da4e4e4.chunk.js"
+    "static/js/main.1cda6236.chunk.js"
   ]
 }
