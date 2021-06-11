@@ -1,5 +1,22 @@
+body {
+  background-color: grey;
+}
+
 .App {
   text-align: center;
+}
+
+.tulisan{
+  color:white
+}
+
+.bg-home{
+  margin-top:50px;
+  background-image: url('http://localhost:3000/logo512.png');
+  background-repeat: no-repeat;
+  height: 50%;
+  width:100%;
+  background-position: center;
 }
 
 .App-logo {
