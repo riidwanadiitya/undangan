@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import { Container, Header, Segment, Image } from 'semantic-ui-react';
 
+import andita from '../images/testing2.jpg';
+import adit from '../images/testing.jpg';
+
 import '../App.css'
 
 export class Mempelai extends Component {
@@ -15,16 +18,16 @@ export class Mempelai extends Component {
                     <Container>
                         <Segment style={{ backgroundColor: 'transparent' }}>
                             <Header as='h2' textAlign='center'>
-                                <Image circular style={{ height: 200, width: 150 }} src="http://localhost:3000/testing2.jpg" />
+                                <Image circular style={{ height: 200, width: 150 }} src={andita} />
                             </Header>
                             <Header as="h1" style={{ color: 'orange' }}> Andita Pratini </Header>
                             <p style={{ marginTop: -15 }}>Putri pertama dari Bapak Dedi Pramono</p>
                             <Header as="h1" style={{ fontSize: 80, color: 'orange' }} >&</Header>
                             <Header as='h2' textAlign='center'>
-                                <Image circular style={{ height: 200, width: 150 }} src="http://localhost:3000/testing.jpg" />
+                                <Image circular style={{ height: 200, width: 150 }} src={adit} />
                             </Header>
                             <Header as="h1" style={{ color: 'orange' }} > Ridwan Aditya Saputra </Header>
-                            <p style={{ marginTop: -15 }}>Putri pertama dari Bapak Imam Sudrajat</p>
+                            <p style={{ marginTop: -15 }}>Putra pertama dari Bapak Imam Sudrajat</p>
                         </Segment>
                     </Container>
 
