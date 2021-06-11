@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import { Container, Header, Grid, Image } from 'semantic-ui-react';
 
+import andita from '../images/testing2.jpg';
+import adit from '../images/testing.jpg';
+
 import '../App.css';
 
 export class Gallery extends Component {
@@ -13,24 +16,24 @@ export class Gallery extends Component {
                         <Grid>
                             <Grid.Row columns={3} style={{ marginTop: 20 }}>
                                 <Grid.Column>
-                                    <Image src="http://localhost:3000/testing.jpg" />
+                                    <Image src={adit} />
                                 </Grid.Column>
                                 <Grid.Column>
-                                    <Image src="http://localhost:3000/testing.jpg" />
+                                    <Image src={adit} />
                                 </Grid.Column>
                                 <Grid.Column>
-                                    <Image src="http://localhost:3000/testing.jpg" />
+                                    <Image src={adit} />
                                 </Grid.Column>
                             </Grid.Row>
                             <Grid.Row columns={3} >
                                 <Grid.Column>
-                                    <Image src="http://localhost:3000/testing2.jpg" />
+                                    <Image src={andita} />
                                 </Grid.Column>
                                 <Grid.Column>
-                                    <Image src="http://localhost:3000/testing2.jpg" />
+                                    <Image src={andita} />
                                 </Grid.Column>
                                 <Grid.Column>
-                                    <Image src="http://localhost:3000/testing2.jpg" />
+                                    <Image src={andita} />
                                 </Grid.Column>
                             </Grid.Row>
                         </Grid>

@@ -9,8 +9,8 @@ export class Routes extends Component {
             <div>
                 <Router>
                     <Switch>
-                        <Route path="/" exact component={Homepage}></Route>
-                        <Route path="/undangan" component={Undangan}></Route>
+                        <Route path="/undangan" component={Homepage}></Route>
+                        <Route path="/andita-ridwan" exact component={Undangan}></Route>
                     </Switch>
                 </Router>
             </div>
