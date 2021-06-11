@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Container, Header, Segment, Image } from 'semantic-ui-react';
 
-import andita from '../images/testing2.jpg';
-import adit from '../images/testing.jpg';
+import raisa from '../images/raisa.jpg';
+import hamish from '../images/hamish.jpg';
 
 import '../App.css'
 
@@ -18,15 +18,15 @@ export class Mempelai extends Component {
                     <Container>
                         <Segment style={{ backgroundColor: 'transparent' }}>
                             <Header as='h2' textAlign='center'>
-                                <Image circular style={{ height: 200, width: 150 }} src={andita} />
+                                <Image circular style={{ height: 200, width: 150 }} src={raisa} />
                             </Header>
-                            <Header as="h1" style={{ color: 'orange' }}> Andita Pratini </Header>
+                            <Header as="h1" style={{ color: 'orange' }}> Raisa </Header>
                             <p style={{ marginTop: -15 }}>Putri pertama dari Bapak Dedi Pramono</p>
                             <Header as="h1" style={{ fontSize: 80, color: 'orange' }} >&</Header>
                             <Header as='h2' textAlign='center'>
-                                <Image circular style={{ height: 200, width: 150 }} src={adit} />
+                                <Image circular style={{ height: 200, width: 150 }} src={hamish} />
                             </Header>
-                            <Header as="h1" style={{ color: 'orange' }} > Ridwan Aditya Saputra </Header>
+                            <Header as="h1" style={{ color: 'orange' }} > Hamish </Header>
                             <p style={{ marginTop: -15 }}>Putra pertama dari Bapak Imam Sudrajat</p>
                         </Segment>
                     </Container>
