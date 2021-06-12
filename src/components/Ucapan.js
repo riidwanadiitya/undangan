@@ -120,14 +120,14 @@ class Ucapan extends Component {
                                 <Container style={{ display: "flex", justifyContent: "center", paddingBottom: "20px" }} >
                                     <Card.Group>
                                         <Card>
-                                            <Card.Content style={{ textTransform: "capitalize" }}>
-                                                <Card.Header textAlign="center">{dat.name}</Card.Header>
+                                            <Card.Content >
+                                                <Card.Header textAlign="center" style={{ textTransform: "capitalize" }}>{dat.name}</Card.Header>
                                                 <Card.Meta textAlign="center">{dat.ig}</Card.Meta>
                                                 <Card.Description>
                                                     <Table basic="very">
                                                         <Table.Body>
                                                             <Table.Row>
-                                                                <Table.Cell textAlign='center'>{dat.ucapan}</Table.Cell>
+                                                                <Table.Cell textAlign='center' >{dat.ucapan}</Table.Cell>
                                                             </Table.Row>
                                                         </Table.Body>
                                                     </Table>
